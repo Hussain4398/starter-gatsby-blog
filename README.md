@@ -1,13 +1,34 @@
-# Contentful Gatsby Starter Blog
+# Category Section
 
 Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com).
 
-![An article page of the starter blog](./screenshot.png "An article page of the starter blog")
+This guide will take you through the following
+1. [What is a category](https://www.google.com)
+2. [How to access your categories](https://www.google.com)
+3. [How to add a category](https://www.google.com)
+4. [How to edit or duplicate a category](https://www.google.com)
+5. [How to delete a category](https://www.google.com)
 
-Static sites are scalable, secure and have very little required maintenance. They come with a drawback though. Not everybody feels good editing files, building a project and uploading it somewhere. This is where Contentful comes into play.
+![Screenshot 2022-03-22 at 2 04 43 PM](https://user-images.githubusercontent.com/101874906/159445112-b35d2abe-3c41-4a85-aaa7-c58333a58fd7.png)
 
-With Contentful and Gatsby you can connect your favorite static site generator with an API that provides an easy to use interface for people writing content and automate the publishing using services like [Travis CI](https://travis-ci.org/) or [Netlify](https://www.netlify.com/).
 
+# What is a category
+A category is the broadest way to classify all the inventory that you have uploaded to your Slate store. To learn more on how to upload inventory read this [guide](https://www.google.com).
+The simplest way to understand how a category can help you filter your inventory is by using the following examples:
+|Example|Inventory Upload|Categories|What can be in this category|
+|:-----:|:--------------:|:--------:|:--------------------------:|
+|Resteraunt|Chicken corn soup|Starters|Chicken corn soup|
+|          |Chicken tikka pizza|Mains|Chicken tikka pizza|
+|          |Ice cream|Desserts|Ice cream|
+|          |Fresh apple juice|Drinks|Coca-cola; Fresh apple juice|
+|          |Coca-cola|              |                          |
+|Fashion|Pakistan cricket cap|Caps|Pakistan cricket cap|
+|       |Karachi Kings shirt|Shirts|Karachi Kings shirt; Lahore Qalandars shirt; Peshawar Zalmi shirt|
+|       |Lahore Qalanders shirt|Others|Liverpool football club socks|
+|       |Peshawar Zalmi shirt|      |      |
+|       |Liverpool football club socks|    | 
+
+if you are a resteraunt owner(or a home-based food business), it is very likely that you can split whatever you are selling into categories that you are 
 ## Features
 
 - Simple content model and structure. Easy to adjust to your needs.
