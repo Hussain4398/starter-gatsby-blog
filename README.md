@@ -49,21 +49,21 @@ You will be in the best position to determine what are appropriate categories fo
 
   - Choosing an image to display for your category. This will be an image that you have uploaded to your Media section. To learn more about how to add media to your Slate store you can read this [guide](https://www.google.com)
  <p align="center">
- <img align="centre" width="300" height="250" alt="GithubImg(4)" src="https://user-images.githubusercontent.com/101874906/159458323-a89d09ce-2095-468d-b805-6e15af568ca7.png"> </p>
+ <img align="centre" width="225" height="250" alt="GithubImg(4)" src="https://user-images.githubusercontent.com/101874906/159458323-a89d09ce-2095-468d-b805-6e15af568ca7.png"> </p>
 
 
    - Associate an item with the category from your Inventory Items. To do this go to your Inventory Items and associate an item with this category. To learn more on how to upload inventory read this [guide](https://www.google.com).
  
    - If you have already associated a category with an Inventory Item you will see this available when adding your category here as below
- <p align="center"> <img align="center" width="525" alt="GithubImg(6)" src="https://user-images.githubusercontent.com/101874906/159462758-645db925-61f7-4d52-9e5b-7b85755f7520.png"> </p>
+ <p align="center"> <img align="center" width="425" height="300" alt="GithubImg(6)" src="https://user-images.githubusercontent.com/101874906/159462758-645db925-61f7-4d52-9e5b-7b85755f7520.png"> </p>
 
 ## How to edit or duplicate a category
 To edit a category choose **Select**. This opens an actions list as shown in the image below. This is the start of how to edit a category on your Slate store.
 <p align="center"> <img width="650" height="400" alt="[Category Edit Img]" src="https://user-images.githubusercontent.com/101874906/159466051-a77d5145-5371-4f39-a8a9-e6b19e8e617a.png"> </p>
 
  - Choose **View/Edit** to open the side bar containing the information of the category to edit as shown in the image below.
- <p align="center"> <img width="650" height="400" alt="GithubImg(2)" src="https://user-images.githubusercontent.com/101874906/159471108-10721453-e8b0-46ef-84af-ed3ff166010e.png">
- </p>
+ <p align="center"> <img width="650" height="400" alt="[CatImgEdit2]" src="https://user-images.githubusercontent.com/101874906/159475706-d67306ee-92e4-4ed6-8772-05e80fad311f.png">
+</p>
  
  - To edit the image choose **Choose Image**, taking you to a gallary with media that you have uploaded to your Slate store as shown in the image below
  
