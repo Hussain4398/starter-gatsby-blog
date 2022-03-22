@@ -25,36 +25,67 @@ The simplest way to understand how a category can help you filter your inventory
 |       |Peshawar Zalmi shirt|      |      |
 |       |Liverpool football club socks|    | 
 
-if you are a resteraunt owner(or a home-based food business), it is very likely that you can split whatever you are selling into categories that your customers are normally used to seeing. For example, any customer ordering food from a business will be used to the categories of a **starter, main, dessert and drinks**. Similarly if you are selling clothes, your customer will be familiar with concepts like **evening wear, formal wear, casual wear**.
+
+  if you are a resteraunt owner(or a home-based food business), it is very likely that you can split whatever you are selling into categories that your customers are normally used to seeing. For example, any customer ordering food from a business will be used to the categories of a **starter, main, dessert and drinks**. Similarly if you are selling clothes, your customer will be familiar with concepts like **evening wear, formal wear, casual wear**.
 You will be in the best position to determine what are appropriate categories for your store. A merchant selling local Pakistani clothing will have different categories (such as **readymade shalwar, readymade kurta or cloth for shalwar or cloth for kurta**) compared to a merchant selling Western clothing (such as **denim jeans** or **cotton trousers** or **collared full-sleeve shirt** or **collared half-sleeve shirt**).
+
+
+
 ## How to access your categories
 - You can access your categories by choosing Categories from your Slate dashboard as shown in the image below. When you first access your categories this will be empty.
-![Screenshot 2022-03-22 at 2 04 43 PM](https://user-images.githubusercontent.com/101874906/159445112-b35d2abe-3c41-4a85-aaa7-c58333a58fd7.png)
+<p align="center"> <width="650" heigh="400" alt="Screenshot 2022-03-22 at 2 04 43 PM" src="https://user-images.githubusercontent.com/101874906/159445112-b35d2abe-3c41-4a85-aaa7-c58333a58fd7.png"> </p>
+  
 - When you first access your categories this will be empty. Eventually you would expect this categories section to look like the below depending on your business and what you are selling.
-<img width="1434" alt="GithubImg(1)" src="https://user-images.githubusercontent.com/101874906/159454964-4eee6471-78f5-4c48-acb2-faaa4b74773e.png">
+<p align="center"> <img width="650" height="400" alt="GithubImg(1)" src="https://user-images.githubusercontent.com/101874906/159454964-4eee6471-78f5-4c48-acb2-faaa4b74773e.png"> </p>
 
 ## How to add a category
 
 - To add a category choose [**Add Category**](https://www.google.com). This will open a side bar as shown in the image below. This is the start of how you add a category to your Slate store. 
 
-<img width="1437" alt="GithubImg(2)" src="https://user-images.githubusercontent.com/101874906/159457333-b131c5d6-3607-471f-9c07-4ac0a5dc774e.png">
+<p align="center"><img width="650" height="400" alt="GithubImg(2)" src="https://user-images.githubusercontent.com/101874906/159457333-b131c5d6-3607-471f-9c07-4ac0a5dc774e.png"> </p>
 
 - Name your category to continue. For our example we are going be creating a category for Mains for a restaurant. 
 - You will now need to edit your category which includes the following: 
 
   - Choosing an image to display for your category. This will be an image that you have uploaded to your Media section. To learn more about how to add media to your Slate store you can read this [guide](https://www.google.com)
  <p align="center">
- <img align="centre" width="332" height="350" alt="GithubImg(4)" src="https://user-images.githubusercontent.com/101874906/159458323-a89d09ce-2095-468d-b805-6e15af568ca7.png"> </p>
+ <img align="centre" width="300" height="250" alt="GithubImg(4)" src="https://user-images.githubusercontent.com/101874906/159458323-a89d09ce-2095-468d-b805-6e15af568ca7.png"> </p>
 
 
    - Associate an item with the category from your Inventory Items. To do this go to your Inventory Items and associate an item with this category. To learn more on how to upload inventory read this [guide](https://www.google.com).
  
    - If you have already associated a category with an Inventory Item you will see this available when adding your category here as below
- <p align="center"> <img align="center" width="525" align="center" alt="GithubImg(6)" src="https://user-images.githubusercontent.com/101874906/159462758-645db925-61f7-4d52-9e5b-7b85755f7520.png"> </p>
+ <p align="center"> <img align="center" width="525" alt="GithubImg(6)" src="https://user-images.githubusercontent.com/101874906/159462758-645db925-61f7-4d52-9e5b-7b85755f7520.png"> </p>
 
 ## How to edit or duplicate a category
+To edit a category choose **Select**. This opens an actions list as shown in the image below. This is the start of how to edit a category on your Slate store.
+<p align="center"> <img width="650" height="400" alt="[Category Edit Img]" src="https://user-images.githubusercontent.com/101874906/159466051-a77d5145-5371-4f39-a8a9-e6b19e8e617a.png"> </p>
+
+ - Choose **View/Edit** to open the side bar containing the information of the category to edit as shown in the image below.
+ <p align="center"> <img width="650" height="400" alt="GithubImg(2)" src="https://user-images.githubusercontent.com/101874906/159471108-10721453-e8b0-46ef-84af-ed3ff166010e.png">
+ </p>
+ 
+ - To edit the image choose **Choose Image**, taking you to a gallary with media that you have uploaded to your Slate store as shown in the image below
+ 
+<p align="center"> <img width="650" height="400" alt="[CatImgEdit3]" src="https://user-images.githubusercontent.com/101874906/159467245-fbd1e599-c21b-467a-988f-401d384d5400.png"> </p>
+
+ 
+ - First unselect the existing image that is currently on display, then choose the image you want to be displayed. 
+ 
+ To duplicate a category choose **Select** for the category you want to duplicate. This opens an actions list as previously shown. Choose **Duplicate** 
+
+
 
 ## How to delete a category
+
+ - To delete a category choose **Select** next to the category you are deleting from your Slate store. This opens an action list as previously shown. Choose **Delete**. 
+ - To ensure you are deleting the right category you are asked if you choose to continue as shown in the image below. 
+ <p align="center"> <img width="650" height="400" alt="[CatImgEdit4]" src="https://user-images.githubusercontent.com/101874906/159473667-21a5254b-aa80-4263-aac0-cd8024740178.png"> </p>
+ 
+ - To delete the category choose **Yes,continue**.
+ 
+ 
+ 
 
 
 - Simple content model and structure. Easy to adjust to your needs.
