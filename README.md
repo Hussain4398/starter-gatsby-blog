@@ -55,7 +55,7 @@ You will be in the best position to determine what are appropriate categories fo
    - Associate an item with the category from your Inventory Items. To do this go to your Inventory Items and associate an item with this category. To learn more on how to upload inventory read this [guide](https://www.google.com).
  
    - If you have already associated a category with an Inventory Item you will see this available when adding your category here as below
- <p align="center"> <img align="center" width="425" height="300" alt="GithubImg(6)" src="https://user-images.githubusercontent.com/101874906/159462758-645db925-61f7-4d52-9e5b-7b85755f7520.png"> </p>
+ <p align="center"> <img align="center" width="425" height="250" alt="GithubImg(6)" src="https://user-images.githubusercontent.com/101874906/159462758-645db925-61f7-4d52-9e5b-7b85755f7520.png"> </p>
 
 ## How to edit or duplicate a category
 To edit a category choose **Select**. This opens an actions list as shown in the image below. This is the start of how to edit a category on your Slate store.
