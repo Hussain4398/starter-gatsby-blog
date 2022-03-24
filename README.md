@@ -49,6 +49,10 @@ For you to recover your password, you must enter the email address in the field 
 
 leading you to the final stage of your password recovery process as seen in the image below. the first field requires you to enter the email address you have registered your slate account with,  confirm the email address in the next field provided. 
 The next field requires you to fill the confirmation code you have recieved via email, this shall be a 6 digit code.
+
+<p align="center"><img width="650" height="400" alt="[Forgotten Password (2)]" src="https://user-images.githubusercontent.com/101874906/159908742-c80923d4-e688-44bb-9bc5-9fad298d6dfc.png"></p>
+
+
 Lastly, taking you to the field where you add the new password you have created. Our recommendation would again be to make your password as strong as possible by adding symbols, characters and numbers. confirm the password you have created by re-entering it in the last field on the page, labelled **Confirm password**. 
 
 You can now access your Slate account with the new password you have created.
