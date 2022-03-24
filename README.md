@@ -20,19 +20,41 @@ https://user-images.githubusercontent.com/101874906/159865617-9376bf1e-ee4b-4167
  
 <p align="center">  <img width="650" height="400" alt="[Screenshot 2022-03-24 at 1 44 24 PM]" src="https://user-images.githubusercontent.com/101874906/159877231-d3962503-6914-4cf5-a4ea-91f7881224f8.png"> </p>
 
- - The **Username** field requires you to create an authentic username specific to you. Make sure to not add spaces and the username cannot have characters other than '_'.
- - The Business name field is for the name of the business which it has been registered under and this is the name which is seen by the customers.
- - The description field is there for you to add a summary of what your Slate store offers, such as the type of product or service that you provide or cater to. 
- - The field for **Given name** and **Last name** are for you to add your first and last name as per your identification documents.
- - The **Email address** field is for the email address you want linked to your Slate store, this is the account your Slate store will be registered under.
- - The **Phone number** field is for the number that you want to be contacted on by both the customers and the Slate team.
- - For the **Password** field, this is for you to create an authentic password for you Slate account. we recommend you use characters and numbers in your password to increase it's strength. 
+ - To register your Slate account you must provide the following information:
+
+   - The **Username** field requires you to create an authentic username specific to you. Make sure to not add spaces and the username cannot have characters other than '_'.
+   - The **Business name** field is for the name of the business which it has been registered under and this is the name which is seen by the customers.
+   - The **Description** field is there for you to add a summary of what your Slate store offers, such as the type of product or service that you provide or cater to. 
+   - The field for **Given name** and **Last name** are for you to add your first and last name as per your identification documents.
+   - The **Email address** field is for the email address you want linked to your Slate store, this is the account your Slate store will be registered under.
+   - The **Phone number** field is for the number that you want to be contacted on by both the customers and the Slate team.
+   - For the **Password** field, this is for you to create an authentic password for you Slate account. we recommend you use characters and numbers in your password to increase it's strength. 
  - To confirm your password you have to re-enter the password you have created for your slate store.
 
 
 ## Login
 
- 
+<p align="center"><img width="650" height="400" alt="[AccImg1]" src="https://user-images.githubusercontent.com/101874906/159887479-55117cd9-1b99-464b-8ed3-61b576cb94ef.png"> </p>
+
+After creating your Slate store account.
+Once on the login dash fill in the email address that you have registered your Slate account with and the password.
+
+## Forgotten Password
+
+In the instance you forget the password for your Slate store choose **Forgot Password**. Taking you to the forgot password field as shown in the image below. 
+
+<p align="center"><img width="650" height="400" alt="[Forgotten Password (1)]" src="https://user-images.githubusercontent.com/101874906/159889449-4dca2e47-96a7-46c5-80d1-8813c07de61e.png"> </p>
+
+For you to recover your password, you must enter the email address in the field provided that you have registered your Slate account e.g 'slate.demo1.1@gmail.com', once filled choose **Reset Code** located under the email field. 
+
+leading you to the final stage of your password recovery process as seen in the image below. the first field requires you to enter the email address you have registered your slate account with,  confirm the email address in the next field provided. 
+The next field requires you to fill the confirmation code you have recieved via email, this shall be a 6 digit code.
+Lastly, taking you to the field where you add the new password you have created. Our recommendation would again be to make your password as strong as possible by adding symbols, characters and numbers. confirm the password you have created by re-entering it in the last field on the page, labelled **Confirm password**. 
+
+You can now access your Slate account with the new password you have created.
+
+
+
 
 # Category Section
 
