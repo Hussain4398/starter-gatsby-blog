@@ -58,6 +58,26 @@ Lastly, taking you to the field where you add the new password you have created.
 You can now access your Slate account with the new password you have created.
 
 
+# About the dashboard
+
+the Slate dashboard is the administration panel behind your storefront. Essentially, it is for the management and overview of your products/services and insights to your customers as seen in the image below. 
+
+<p align="center"> <img width="650" height="400" alt="[DashImg]" src="https://user-images.githubusercontent.com/101874906/159910280-c97f6136-a313-479d-9ead-50554a9696dd.png"> </p>
+
+To gain more insights on:
+ - [**Home**](https://www.google.com)
+ - [**Category**](https://www.google.com)
+ - [**Inventory**](https://www.google.com)
+ - [**Modifiers**](https://www.google.com)
+ - [**Discounts**](https://www.google.com)
+ - [**Taxes**](https://www.google.com)
+ - [**Media**](https://www.google.com)
+ - [**Locations**](https://www.google.com)
+ - [**Create Order**](https://www.google.com)
+ - [**Order Mangement**](https://www.google.com)
+ - [**Customers**](https://www.google.com) 
+
+
 
 
 # Category Section
