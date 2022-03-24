@@ -1,3 +1,39 @@
+ # Accessing Slate
+ 
+ This guide will take you through:
+  - [Need an account?](https://www.google.com)
+  - [Login](https://www.google.com)
+  - [Forgetten password](https://www.google.com)
+ 
+ ## Need an account?
+ 
+ You can create your Slate account by choosing the [**Need an account?**](https://www.google.com) link as shown in the video below.
+ 
+<p align="center">
+    
+
+https://user-images.githubusercontent.com/101874906/159865617-9376bf1e-ee4b-4167-b127-cafefd7e6d3b.MOV
+
+  </p>
+
+ This redirects you to the registration form as shown in the image below.
+ 
+<p align="center">  <img width="650" height="400" alt="[Screenshot 2022-03-24 at 1 44 24 PM]" src="https://user-images.githubusercontent.com/101874906/159877231-d3962503-6914-4cf5-a4ea-91f7881224f8.png"> </p>
+
+ - The **Username** field requires you to create an authentic username specific to you. Make sure to not add spaces and the username cannot have characters other than '_'.
+ - The Business name field is for the name of the business which it has been registered under and this is the name which is seen by the customers.
+ - The description field is there for you to add a summary of what your Slate store offers, such as the type of product or service that you provide or cater to. 
+ - The field for **Given name** and **Last name** are for you to add your first and last name as per your identification documents.
+ - The **Email address** field is for the email address you want linked to your Slate store, this is the account your Slate store will be registered under.
+ - The **Phone number** field is for the number that you want to be contacted on by both the customers and the Slate team.
+ - For the **Password** field, this is for you to create an authentic password for you Slate account. we recommend you use characters and numbers in your password to increase it's strength. 
+ - To confirm your password you have to re-enter the password you have created for your slate store.
+
+
+## Login
+
+ 
+
 # Category Section
 
 Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com).
@@ -85,7 +121,7 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
  - To delete the category choose [**Yes,continue**](https://www.google.com).
  
  
- 
+
 
 
 - Simple content model and structure. Easy to adjust to your needs.
