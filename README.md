@@ -1,3 +1,11 @@
+# Slate Documentation
+
+![Slate Logo-Black (1)](https://user-images.githubusercontent.com/101874906/160097236-b3ab2547-d405-484c-8955-62713a3a3d7b.png)
+
+<details><summary>Guides</summary>
+<p>
+ 
+ 
 <details><summary>Accessing Slate</summary>
 <p>
 
@@ -68,27 +76,17 @@ You can now access your Slate account with the new password you have created.
 </p>
 </details>
 
-
-<details><summary>About the dashboard</summary>
+  <details><summary>About the dashboard</summary>
 <p>
+ 
+ 
 # About the dashboard
 
 the Slate dashboard is the administration panel behind your storefront. Essentially, it is for the management and overview of your products/services and insights to your customers as seen in the image below. 
 
 <p align="center"> <img width="650" height="400" alt="[DashImg]" src="https://user-images.githubusercontent.com/101874906/159910280-c97f6136-a313-479d-9ead-50554a9696dd.png"> </p>
 
-To gain more insights on:
- - [**Home**](https://www.google.com)
- - [**Category**](https://www.google.com)
- - [**Inventory**](https://www.google.com)
- - [**Modifiers**](https://www.google.com)
- - [**Discounts**](https://www.google.com)
- - [**Taxes**](https://www.google.com)
- - [**Media**](https://www.google.com)
- - [**Locations**](https://www.google.com)
- - [**Create Order**](https://www.google.com)
- - [**Order Mangement**](https://www.google.com)
- - [**Customers**](https://www.google.com) 
+
 
 ## Dashboard Section
 
@@ -101,8 +99,10 @@ The dashboard is divided into sections where you can efficiently complete variou
 </details>
 
 
-<details><summary>About the dashboard</summary>
+<details><summary>Categories Section</summary>
 <p>
+ 
+ 
 # Category Section
 
 Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com).
@@ -195,6 +195,17 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
  </p>
  </details>
  
+
+ </p>
+</details>
+ 
+
+
+
+
+
+
+
 
 
 <details><summary>Extra</summary>
