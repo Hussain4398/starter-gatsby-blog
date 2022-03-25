@@ -1,4 +1,8 @@
- # Accessing Slate
+<details><summary>Accessing Slate</summary>
+<p>
+
+
+# Accessing Slate
  
  This guide will take you through:
 
@@ -60,7 +64,9 @@ The next field requires you to fill the confirmation code you have recieved via 
 Lastly, taking you to the field where you add the new password you have created. Our recommendation would again be to make your password as strong as possible by adding symbols, characters and numbers. confirm the password you have created by re-entering it in the last field on the page, labelled **Confirm password**. 
 
 You can now access your Slate account with the new password you have created.
-<div style="page-break-after: always;"</div>
+
+</p>
+</details>
 
 # About the dashboard
 
@@ -95,14 +101,14 @@ The dashboard is divided into sections where you can efficiently complete variou
 Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com).
 
 This guide will take you through the following
-1. [What is a category](https://www.google.com)
-2. [How to access your categories](https://www.google.com)
-3. [How to add a category](https://www.google.com)
+1. <a href="#What-is-a-category">What is a category</a>
+2. <a href="#How-to-access-your-categories">How to access your categories</a>
+3. <a href="#How-to-add-a-category">How to add a category</a>
 4. [How to edit or duplicate a category](https://www.google.com)
 5. [How to delete a category](https://www.google.com)
 
 
- <a id="#What-is-a-category"></a> 
+ <a id="What-is-a-category"></a> 
 # What is a category
 A category is the broadest way to classify all the inventory that you have uploaded to your Slate store. To learn more on how to upload inventory read this [guide](https://www.google.com).
 The simplest way to understand how a category can help you filter your inventory is by using the following examples:
@@ -124,7 +130,7 @@ The simplest way to understand how a category can help you filter your inventory
 You will be in the best position to determine what are appropriate categories for your store. A merchant selling local Pakistani clothing will have different categories (such as **readymade shalwar, readymade kurta or cloth for shalwar or cloth for kurta**) compared to a merchant selling Western clothing (such as **denim jeans** or **cotton trousers** or **collared full-sleeve shirt** or **collared half-sleeve shirt**).
 
 
-
+<a id="How-to-access-your-categories"></a> 
 ## How to access your categories
 - You can access your categories by choosing [**Categories**](https://www.google.com) from your Slate dashboard as shown in the image below. When you first access your categories this will be empty.
 <p align="center"> <width="650" heigh="400" alt="Screenshot 2022-03-22 at 2 04 43 PM" src="https://user-images.githubusercontent.com/101874906/159445112-b35d2abe-3c41-4a85-aaa7-c58333a58fd7.png"> </p>
@@ -132,6 +138,7 @@ You will be in the best position to determine what are appropriate categories fo
 - When you first access your categories this will be empty. Eventually you would expect this categories section to look like the below depending on your business and what you are selling.
 <p align="center"> <img width="650" height="400" alt="GithubImg(1)" src="https://user-images.githubusercontent.com/101874906/159454964-4eee6471-78f5-4c48-acb2-faaa4b74773e.png"> </p>
 
+<a id="How-to-add-a-category"></a> 
 ## How to add a category
 
 - To add a category choose [**Add Category**](https://www.google.com). This will open a side bar as shown in the image below. This is the start of how you add a category to your Slate store. 
