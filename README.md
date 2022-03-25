@@ -68,6 +68,9 @@ You can now access your Slate account with the new password you have created.
 </p>
 </details>
 
+
+<details><summary>About the dashboard</summary>
+<p>
 # About the dashboard
 
 the Slate dashboard is the administration panel behind your storefront. Essentially, it is for the management and overview of your products/services and insights to your customers as seen in the image below. 
@@ -94,8 +97,12 @@ The dashboard is divided into sections where you can efficiently complete variou
  - Sales and Orders daily summary:
  
  
+</p>
+</details>
 
 
+<details><summary>About the dashboard</summary>
+<p>
 # Category Section
 
 Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com).
@@ -185,10 +192,13 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
  
  - To delete the category choose [**Yes,continue**](https://www.google.com).
  
+ </p>
+ </details>
  
 
 
-
+<details><summary>Extra</summary>
+<p>
 - Simple content model and structure. Easy to adjust to your needs.
 - Use the [synchronization feature](https://www.contentful.com/developers/docs/references/content-delivery-api/#/reference/synchronization) of our [Delivery API](https://www.contentful.com/developers/docs/references/content-delivery-api/).
 - Responsive/adaptive images via [gatsby-plugin-image](https://www.gatsbyjs.org/packages/gatsby-plugin-image/) and our [Images API](https://www.contentful.com/developers/docs/references/content-delivery-api/#/reference/synchronization/initial-synchronization-of-entries-of-a-specific-content-type).
@@ -243,3 +253,6 @@ See the [official Contentful getting started guide](https://www.contentful.com/d
 Feel free to open pull requests to fix bugs. If you want to add features, please have a look at the [original version](https://github.com/contentful-userland/gatsby-contentful-starter). It is always open to contributions and pull requests.
 
 You can learn more about how Contentful userland is organized by visiting [our about repository](https://github.com/contentful-userland/about).
+
+ </p>
+ </details>
