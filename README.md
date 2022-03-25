@@ -1,10 +1,13 @@
  # Accessing Slate
  
  This guide will take you through:
-  - [Need an account?](https://www.google.com)
-  - [Login](https://www.google.com)
-  - [Forgetten password](https://www.google.com)
- 
+
+  - <a href="#Need-an-account">Need an account</a>
+  - <a href="#Login">Login</a>
+  - <a href="#Forgotten-Password">Forgotten Password</a>
+
+
+ <a id="Need-an-account"></a> 
  ## Need an account?
  
  You can create your Slate account by choosing the [**Need an account?**](https://www.google.com) link as shown in the video below.
@@ -31,7 +34,7 @@ https://user-images.githubusercontent.com/101874906/159865617-9376bf1e-ee4b-4167
    - For the **Password** field, this is for you to create an authentic password for you Slate account. we recommend you use characters and numbers in your password to increase it's strength. 
  - To confirm your password you have to re-enter the password you have created for your slate store.
 
-
+<a id="Login"></a> 
 ## Login
 
 <p align="center"><img width="650" height="400" alt="[AccImg1]" src="https://user-images.githubusercontent.com/101874906/159887479-55117cd9-1b99-464b-8ed3-61b576cb94ef.png"> </p>
@@ -39,6 +42,7 @@ https://user-images.githubusercontent.com/101874906/159865617-9376bf1e-ee4b-4167
 After creating your Slate store account.
 Once on the login dash fill in the email address that you have registered your Slate account with and the password.
 
+<a id="#Forgetten-Password"></a>
 ## Forgotten Password
 
 In the instance you forget the password for your Slate store choose **Forgot Password**. Taking you to the forgot password field as shown in the image below. 
@@ -56,7 +60,7 @@ The next field requires you to fill the confirmation code you have recieved via 
 Lastly, taking you to the field where you add the new password you have created. Our recommendation would again be to make your password as strong as possible by adding symbols, characters and numbers. confirm the password you have created by re-entering it in the last field on the page, labelled **Confirm password**. 
 
 You can now access your Slate account with the new password you have created.
-
+<div style="page-break-after: always;"</div>
 
 # About the dashboard
 
@@ -77,7 +81,13 @@ To gain more insights on:
  - [**Order Mangement**](https://www.google.com)
  - [**Customers**](https://www.google.com) 
 
+## Dashboard Section
 
+The dashboard is divided into sections where you can efficiently complete various tasks. The whole experience is designed by our experts to be intuitive and simple. We believe that you shall find the Slate store experience easy to manage, but these instructions are for those moments where you may require our assistance and to further enhance your experience with the Slate Platform. A short while spent reading this guide will make a significant difference in the efficiency and effectiveness of your Slate experience.
+
+ - Sales and Orders daily summary:
+ 
+ 
 
 
 # Category Section
@@ -174,6 +184,8 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
 - Use the [synchronization feature](https://www.contentful.com/developers/docs/references/content-delivery-api/#/reference/synchronization) of our [Delivery API](https://www.contentful.com/developers/docs/references/content-delivery-api/).
 - Responsive/adaptive images via [gatsby-plugin-image](https://www.gatsbyjs.org/packages/gatsby-plugin-image/) and our [Images API](https://www.contentful.com/developers/docs/references/content-delivery-api/#/reference/synchronization/initial-synchronization-of-entries-of-a-specific-content-type).
 
+
+<a id="getting-started"></a>
 ## Getting started
 
 See our [official Contentful getting started guide](https://www.contentful.com/developers/docs/tutorials/general/get-started/).
