@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/101874906/159865617-9376bf1e-ee4b-4167
 After creating your Slate store account.
 Once on the login dash fill in the email address that you have registered your Slate account with and the password.
 
-<a id="#Forgetten-Password"></a>
+<a id="Forgetten-Password"></a>
 ## Forgotten Password
 
 In the instance you forget the password for your Slate store choose **Forgot Password**. Taking you to the forgot password field as shown in the image below. 
@@ -101,6 +101,8 @@ This guide will take you through the following
 4. [How to edit or duplicate a category](https://www.google.com)
 5. [How to delete a category](https://www.google.com)
 
+
+ <a id="#What-is-a-category"></a> 
 # What is a category
 A category is the broadest way to classify all the inventory that you have uploaded to your Slate store. To learn more on how to upload inventory read this [guide](https://www.google.com).
 The simplest way to understand how a category can help you filter your inventory is by using the following examples:
