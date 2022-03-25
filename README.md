@@ -1,4 +1,4 @@
-# Slate Store Guide
+# Slate Guide
 
 ![Slate Logo-Black (1)](https://user-images.githubusercontent.com/101874906/160097236-b3ab2547-d405-484c-8955-62713a3a3d7b.png)
 
@@ -259,18 +259,17 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 20 50 PM]" src="https://user-images.githubusercontent.com/101874906/160122002-839b52df-e25b-4753-a61b-fd988fb90472.png"></p>
 
-Choose the product, that you have created in **inventory**, the taxes that you have added to your Slate store, for more infomration on how to add taxes **click here**, the discount you have added to your Slate store, for more information on how to add discounts **click here**.
+ - Choose the product, that you have created in inventory <a href="#Inventory">click here</a>. the taxes that you have added to your Slate store, for more infomration on how to add taxes <a href="#Taxes">click here</a>, the discount you have added to your Slate store, for more information on how to add discounts <a href="#Discounts">click here</a>.
  
   - Once added, your page will look like the image below.
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 01 PM]" src="https://user-images.githubusercontent.com/101874906/160123316-f5f38635-db06-416f-b5ee-f3c0fcfcd3ed.png"></p>
 
- Choose **Continue**
+  - Choose **Continue**
  
- Taking you to the third page of your **Create Order** process. Where you choose whether pick-up or delivery. 
+  - Taking you to the third page of your **Create Order** process. Where you choose whether pick-up or delivery. 
  
- <p align="center">
-<img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 14 PM]" src="https://user-images.githubusercontent.com/101874906/160123801-d53953b6-eea1-4736-af39-7e1eb17f732d.png"></p>
+ <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 14 PM]" src="https://user-images.githubusercontent.com/101874906/160123801-d53953b6-eea1-4736-af39-7e1eb17f732d.png"></p>
  
   - If you choose delivery, you will choose the delivery address for your customer, to learn how to manually add the delivery address **click here**. 
  
@@ -278,11 +277,11 @@ Choose the product, that you have created in **inventory**, the taxes that you h
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 37 PM" src="https://user-images.githubusercontent.com/101874906/160124461-77547e5c-b18c-4bb8-ac03-59af48e22ed9.png"></p>
  
- Choose **Continue**
+  - Choose **Continue**
 
   - Taking you to the final page for creating an order, as shown in the image below.
  
- <p align=""center><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 45 PM]" src="https://user-images.githubusercontent.com/101874906/160124897-48f47b98-4626-48f2-b4f4-c989912104ae.png"</p>
+ <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 45 PM]" src="https://user-images.githubusercontent.com/101874906/160124897-48f47b98-4626-48f2-b4f4-c989912104ae.png"</p>
   
    - Once you have reveiwed the information provided, choose **Continue**
   
@@ -308,6 +307,30 @@ Choose the product, that you have created in **inventory**, the taxes that you h
  </p>
  </details>
   
+  <a id="Teaxes"></a>
+  <details><summary>Taxes</summary>
+<p>
+  
+ </p>
+ </details>
+ 
+ 
+ <a id="Discounts"></a>
+ <details><summary>Discounts</summary>
+ <p>
+  
+  
+ </p>
+ </details>
+ 
+ 
+ <a id="Inventory"></a>
+ <details><summary>Inventory</summary>
+ <p>
+  
+ </p>
+ </details>
+ 
  </p>
 </details>
  
