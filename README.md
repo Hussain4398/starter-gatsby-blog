@@ -1,4 +1,4 @@
-# Slate Documentation
+# Slate Store Guide
 
 ![Slate Logo-Black (1)](https://user-images.githubusercontent.com/101874906/160097236-b3ab2547-d405-484c-8955-62713a3a3d7b.png)
 
@@ -111,8 +111,8 @@ This guide will take you through the following
 1. <a href="#What-is-a-category">What is a category</a>
 2. <a href="#How-to-access-your-categories">How to access your categories</a>
 3. <a href="#How-to-add-a-category">How to add a category</a>
-4. [How to edit or duplicate a category](https://www.google.com)
-5. [How to delete a category](https://www.google.com)
+4. <a href="#How-to-edit-or-delete-a-category">How to edit or delete a category</a>
+5. <a href="#How-to-delete-a-category">How to delete a category</a>
 
 
  <a id="What-is-a-category"></a> 
@@ -165,6 +165,8 @@ You will be in the best position to determine what are appropriate categories fo
    - If you have already associated a category with an Inventory Item you will see this available when adding your category here as below
  <p align="center"> <img align="center" width="425" height="250" alt="GithubImg(6)" src="https://user-images.githubusercontent.com/101874906/159462758-645db925-61f7-4d52-9e5b-7b85755f7520.png"> </p>
 
+ 
+ <a id="How-to-edit-or-delete-a-category"></a> 
 ## How to edit or duplicate a category
 To edit a category choose [**Select**](https://www.google.com). This opens an actions list as shown in the image below. This is the start of how to edit a category on your Slate store.
 <p align="center"> <img width="650" height="400" alt="[Category Edit Img]" src="https://user-images.githubusercontent.com/101874906/159466051-a77d5145-5371-4f39-a8a9-e6b19e8e617a.png"> </p>
@@ -183,7 +185,7 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
  To duplicate a category choose [**Select**](https://www.google.com) for the category you want to duplicate. This opens an actions list as previously shown. Choose [**Duplicate**](https://www.google.com) 
 
 
-
+<a id="How-to-delete-a-category"></a> 
 ## How to delete a category
 
  - To delete a category choose [**Select**](https://www.google.com) next to the category you are deleting from your Slate store. This opens an action list as previously shown. Choose [**Delete**](https://www.google.com). 
@@ -195,7 +197,50 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
  </p>
  </details>
  
+<details><summary>Create an Order</summary>
+ 
+  - <a href="#Introduction">Introduction</a>
+  - <a href="#How-to-access-create-order">How to access create order</a>
+  - <a href="#How-to-create-an-order">How to create an order</a>
+ 
+ 
+ <a id="Introduction"></a> 
+ ## Introduction
+ 
+ This function is for merchants to add orders, in the instance where customer orders need to be re-sent but have been marked as sent in the system. Such as, if a customer recieves an incomplete order and has to be sent the remainder of their ordered items.
+ The create an order dashboard has multiple features that streamline your process of creating an order, such as:
+  - Each order is given an automatically generated reference ID, specific to each order. This ID is seen on the top right of the screen as seen in the image below. 
+ 
+ <p align="center"><img width="400" height="100" alt="[Screenshot 2022-03-25 at 4 07 26 PM]" src="https://user-images.githubusercontent.com/101874906/160111380-cbe21c9c-39c6-477d-8452-233b75bbfd2b.png"
+</p>
+  
+  
+ - you can track the process of placing an order on the top of screen, showing the stage you're currently at.
+  
+  <p align="center"><img width="700" height="45" alt="[Screenshot 2022-03-25 at 4 08 46 PM]" src="https://user-images.githubusercontent.com/101874906/160111936-311a2bf0-a417-4cec-acb1-74d0340bf0ff.png"></p>
 
+  - One the right of your screen you have the information of your customer who is receieving the item ordered. When a customer has not been chosen the box looks like the image below.
+ 
+ <p align="center"><img width="400" height="125" alt="[Screenshot 2022-03-25 at 4 07 58 PM]" src="https://user-images.githubusercontent.com/101874906/160112569-953a984b-1b50-428b-8ded-1af398513487.png"></p>
+
+ 
+ <a id="How-to-access-create-order"></a> 
+ ## How to access create order
+ 
+  - You can access your categories by choosing **Create Order** on your Slate dashboard as shown in the image below. When you first access your categories this will be empty.
+ 
+ <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 3 59 28 PM]" src="https://user-images.githubusercontent.com/101874906/160108846-e82afd32-186f-42c8-a707-ff7f4ccf63c9.png"></p>
+
+ <a id="How-to-create-an-order"></a> 
+ ## How to create an order
+ 
+  - For you to create an order you will have to choose the location you are placing the order from. 
+ 
+ 
+ </p>
+ </details>
+ 
+ 
  </p>
 </details>
  
