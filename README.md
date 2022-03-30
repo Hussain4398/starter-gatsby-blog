@@ -228,7 +228,7 @@ Key features to note on create order are:
   
   <p align="center"><img width="700" height="45" alt="[Screenshot 2022-03-25 at 4 08 46 PM]" src="https://user-images.githubusercontent.com/101874906/160111936-311a2bf0-a417-4cec-acb1-74d0340bf0ff.png"></p>
 
- - you have the information of your customer who is receieving the item ordered. If you haven't chosen a customer that tile is blank.
+ - you have the information of your customer who is receiving the item ordered. If you haven't chosen a customer that tile is blank.
  
  <p align="center"><img width="400" height="125" alt="[Screenshot 2022-03-25 at 4 07 58 PM]" src="https://user-images.githubusercontent.com/101874906/160112569-953a984b-1b50-428b-8ded-1af398513487.png"></p>
 
