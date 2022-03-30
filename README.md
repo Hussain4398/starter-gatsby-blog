@@ -206,38 +206,9 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
  
   # Create an order
   
-  - <a href="#Introduction">Key features</a>
   - <a href="#How-to-access-create-order">How to access create an order</a>
   - <a href="#How-to-create-an-order">How to create an order</a>
- 
- 
- <a id="Introduction"></a> 
- ## Key features
- 
   
-Key features to note on create order are:
-  
-  
-  - each order is given an automatically generated reference ID, specific to each order.
- 
- <p align="center"><img width="400" height="100" alt="[Screenshot 2022-03-25 at 4 07 26 PM]" src="https://user-images.githubusercontent.com/101874906/160111380-cbe21c9c-39c6-477d-8452-233b75bbfd2b.png"
-</p>
-  
-  
- - you can track the process of placing an order on the top of screen, showing the stage you're currently at.
-  
-  <p align="center"><img width="700" height="45" alt="[Screenshot 2022-03-25 at 4 08 46 PM]" src="https://user-images.githubusercontent.com/101874906/160111936-311a2bf0-a417-4cec-acb1-74d0340bf0ff.png"></p>
-
- - you have the information of your customer who is receiving the item ordered. If you haven't chosen a customer that tile is blank.
- 
- <p align="center"><img width="400" height="125" alt="[Screenshot 2022-03-25 at 4 07 58 PM]" src="https://user-images.githubusercontent.com/101874906/160112569-953a984b-1b50-428b-8ded-1af398513487.png"></p>
-
- 
- - Location selecter, a table to choose your branch(if any). For more information on how to add a location **click here**.
- 
- <p align="center"><img width="400" height="100" alt="[Screenshot 2022-03-25 at 4 05 27 PM]" src="https://user-images.githubusercontent.com/101874906/160116880-dbdd40b3-dca3-40b7-9cc8-a793f770e87b.png"></p>
-
- 
  <a id="How-to-access-create-order"></a> 
  ## How to access create order
  
@@ -255,39 +226,43 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  
  Steps to create an order are:
  
-  - Choose the location you are placing the order from. 
+ <a id="branch"></a> 
+  - Choose the location you are generating the order from. For example if your store has 2 locations (such as Islamabad and Karachi) you will choose the location from which you will be fulfilling the order placed by your customer. If your customer is based in Karachi you would normally chose your store location as Karachi but there can be exceptions for example if the item you want to sell is available in your Islamabad store. If you only have one store (you are a home based business you will have one location).
  
  <p align="center"> 
  <img width="400" height="150" alt"[Screenshot 2022-03-25 at 4 54 02 PM]" src="https://user-images.githubusercontent.com/101874906/160117599-9539bd2f-37f9-4548-b891-79843f60aec6.png"></p>
  
   - Choose the customer recieving the order, customers who have already ordered from your Slate store will be shown in the table, choose customer. For new customers view <a href="#Create-Customer">Create customer</a> on how to add a new customer to your Slate store.
  
-  - When you have chosen a customer and the location your dashboard will look like the image below.
+  - We have chosen an existing customer and location for us it is Slate HQ for you it will be the name of your stores location, for more information on adding a location <a href="#Location">click here</a>. Our dashboard looks like the image below.
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 16 14 PM]" src="https://user-images.githubusercontent.com/101874906/160119249-e63a52c6-e642-4a8a-8386-32ded5cc3633.png"></p>
 
  - Choose **Create Order**
  
-  - Choose the product, that you have created in inventory, for more information on creating an inventory item <a href="#Inventory">click here</a>, the taxes that you have added to your Slate store, for more information on how to add taxes <a href="#Taxes">click here</a> and the discount you have added to your Slate store, for more information on how to add discounts <a href="#Discounts">click here</a>.
+  - Choose:
+    1. the product with the variation of the product you want for example if you are looking to buy a polo shirt for yourself and you are a size medium, you will choose medium that you have created in inventory, for more information on creating an inventory item <a href="#Inventory">click here</a>, 
+    2. the taxes that you have added to your Slate store, for more information on how to add taxes <a href="#Taxes">click here</a>,
+    3. the discount you have added to your Slate store, for more information on how to add discounts <a href="#Discounts">click here</a>.
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 20 40 PM]" src="https://user-images.githubusercontent.com/101874906/160121814-084018e4-23d2-4464-a818-40969fa88ee7.png"></p>
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 20 50 PM]" src="https://user-images.githubusercontent.com/101874906/160122002-839b52df-e25b-4753-a61b-fd988fb90472.png"></p>
 
-  - Once added, your page will look like the image below.
+  - We have chosen the examples we added for product, taxes and discounts so our dashboard looks like the image below.
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 01 PM]" src="https://user-images.githubusercontent.com/101874906/160123316-f5f38635-db06-416f-b5ee-f3c0fcfcd3ed.png"></p>
 
   - Choose **Continue**
  
-  - Then choose the way the customer recieves the order. There 2 options to choose from:
+  - Then choose the way the customer recieves the order. There are 2 options to choose from:
  
-  1. Pickup
-  2. Delivery
+   1. Pickup, the customer picks up the order from the branch chosen <a href="#branch">above</a>.
+ 
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 14 PM]" src="https://user-images.githubusercontent.com/101874906/160123801-d53953b6-eea1-4736-af39-7e1eb17f732d.png"></p>
  
-  - If you choose delivery, choose the delivery address for your customer, to learn how to manually add the delivery address **click here**. Customer details pop up underneath the table when you choose the customer, as shown in the image below.
+   2. Delivery, the merchant has to dispatch the order to the customers given address. Choose the delivery address for your customer. If your registered customer has to have the order delivered to a new address choose **Add Address**, for more information on how to add a new address **click here**. We chose an existing customer so their details pop up underneath the table when we chose the address for delivery, as shown in the image below.
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 37 PM" src="https://user-images.githubusercontent.com/101874906/160124461-77547e5c-b18c-4bb8-ac03-59af48e22ed9.png"></p>
  
@@ -297,7 +272,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 45 PM]" src="https://user-images.githubusercontent.com/101874906/160124897-48f47b98-4626-48f2-b4f4-c989912104ae.png"</p>
   
-   - Once reveiwed, choose **Continue**
+   - Once reviewed, choose **Continue**
   
    - Your dashboard will have a confirmation as shown in the image below
   
@@ -346,31 +321,60 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
   
    - <a href="#What-is-inventory">What is inventory</a>
   - <a href="#How-to-access-inventory">How to access inventory</a>
-  - <a href="#How-to-create-an-order">How to add a product</a>
-  - <a href="#How-to-edit-product">How to edit a product</a>
+  - <a href="#How-to-add-an-item">How to add an item</a>
+  - <a href="#Add-variation">How to add a variation</a>
+  - <a href="#How-to-edit-an-item">How to edit an item</a>
   
   <a id="What-is-inventory"></a>
-  # What is inventory
+  ## What is inventory
   
-  Inventory is all the products you have uploaded on your Slate store, keeping track of the number of units you have in stock. Each business will have different items they can list on their Slate store, the simplest way to understand different types of products you can upload is by using the following example: 
+  Each product or service (depending on the type of business) you list on your Slate store is part of your inventory. Your inventory keeps track of the number of units you have in stock. Each business has different products or services listed on their Slate stores. The simplest way to understand the different types of products or services different businesses can have is by using the following example: 
   
  <p align="center">
   
- |Type of store|Inventory item|
+ |Type of store|Inventory product/service|
 |:-----:|:--------------:|
-|Resteraunt|Chicken corn soup|
-|          |Chicken tikka pizza|
-|          |Ice cream|
-|          |Fresh apple juice|
-|          |Coca-cola|
-|Fashion|Pakistan cricket cap
-|       |Karachi Kings shirt|
-|       |Lahore Qalanders shirt|
-|       |Peshawar Zalmi shirt|
-|       |Liverpool football club socks|
+|Resteraunt|Pepperoni Pizza|
+|          |Margherita Pizza|
+|Pharmacy|Paracetamol|
+|       |Deep heat spray|
+|       |Bandages|
+|       |Gauze|
+|Car wash|Standard wash|
+|        |Wash + Buff|
   
-</p>
-   
+  </p>
+  
+  if you're a resteraunt owner (or a home-based business) you will list the items on your menu on your Slate store such as a pizzeria will list different types of pizzas they have available on their menu. For a car wash owner (or a door to door car washing service) you will list the different type of services you offer. 
+
+ <a id="how-to-access-inventory"></a>
+ ## How to access inventory
+ You can access your inventory by choosing **Inventory** from your Slate dashboard as shown below:
+ 
+  <a id="how-to-add-an-item"></a>
+  ## How to add an item
+  
+  Steps to add an item:
+  
+   - To add an item choose **Add Item**. This will open a side bar as shown in the image below. This is the start of how you add an item to your Slate store.
+ 
+ <p align="center">  <img width="650" height="400" alt="[Screenshot 2022-03-30 at 3 59 27 PM]" src="https://user-images.githubusercontent.com/101874906/160824797-b3c6bc5b-b8c7-4c4c-9705-c1b2f02c06dc.png"> </p>
+ 
+   - Name your item and add a description to continue. For our example we have added a pepperoni pizza for a pizzeria. 
+   - You will now need to edit your item which includes the following: 
+ 
+  - Choose a category the item falls under. This classifies the item you have uploaded. To learn more about how to create a category <a href="#How-to-add-a-category">click here</a>
+  - Choosing an image to display for your item. This will be an image that you have uploaded to your **Media** section. To learn more about how to add media to your Slate store you can read this [guide](https://www.google.com).
+  - Create variation(s) for your item. The item is the shell and the content within it is variation. for example we are creating a pepperoni pizza for a pizza the variations for are; 8 inches, 12 inches and 16 inches, the sizes the resteraunt offers. Likewise, if you are a clothing store your variations for a crew neck T-shirt would be small, medium and large.
+ 
+ <a id="Add-variation"></a>
+  ## How to add a variation
+ 
+ - To create a variation choose **Add Variation**. 
+ - Name the variation, add a SKU number, the price of the item and click the track inventory slider if you wish to keep track of your inventory. If yes, then choose the location the item is available at. 
+ - Each item has to have a number of units available, for example if you're a clothing business and the number of white crew neck t-shirts in size medium is 45 then you will add 45 in stock. This is done by choosing **Select** under the **Actions** column in the variations table, choose **Update Stock**, choose **Increase** to add to the number of units available for your listed variant and the number that you have in stock. 
+  
+  
  </p>
  </details>
  
