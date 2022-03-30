@@ -1,4 +1,4 @@
-# Slate Guide
+# Slate guide
 
 ![Slate Logo-Black (1)](https://user-images.githubusercontent.com/101874906/160097236-b3ab2547-d405-484c-8955-62713a3a3d7b.png)
 
@@ -16,7 +16,7 @@
 
   - <a href="#Need-an-account">Need an account</a>
   - <a href="#Login">Login</a>
-  - <a href="#Forgotten-Password">Forgotten Password</a>
+  - <a href="#Forgotten-Password">Forgotten password</a>
 
 
  <a id="Need-an-account"></a> 
@@ -55,7 +55,7 @@ After creating your Slate store account.
 Once on the login dash fill in the email address that you have registered your Slate account with and the password.
 
 <a id="Forgetten-Password"></a>
-## Forgotten Password
+## Forgotten password
 
 In the instance you forget the password for your Slate store choose **Forgot Password**. Taking you to the forgot password field as shown in the image below. 
 
@@ -105,7 +105,6 @@ The dashboard is divided into sections where you can efficiently complete variou
  
 # Category Section
 
-Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com).
 
 This guide will take you through the following
 1. <a href="#What-is-a-category">What is a category</a>
@@ -140,7 +139,11 @@ You will be in the best position to determine what are appropriate categories fo
 <a id="How-to-access-your-categories"></a> 
 ## How to access your categories
 - You can access your categories by choosing [**Categories**](https://www.google.com) from your Slate dashboard as shown in the image below. When you first access your categories this will be empty.
-<p align="center"> <width="650" heigh="400" alt="Screenshot 2022-03-22 at 2 04 43 PM" src="https://user-images.githubusercontent.com/101874906/159445112-b35d2abe-3c41-4a85-aaa7-c58333a58fd7.png"> </p>
+<p align="center"> 
+ 
+https://user-images.githubusercontent.com/101874906/160762017-d1027cce-c015-4a69-b77a-fdde912dd1d1.mov
+
+ </p>
   
 - When you first access your categories this will be empty. Eventually you would expect this categories section to look like the below depending on your business and what you are selling.
 <p align="center"> <img width="650" height="400" alt="GithubImg(1)" src="https://user-images.githubusercontent.com/101874906/159454964-4eee6471-78f5-4c48-acb2-faaa4b74773e.png"> </p>
@@ -200,17 +203,22 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
 <details><summary>Create an Order</summary>
  <p>
  
-  - <a href="#Introduction">Introduction</a>
-  - <a href="#How-to-access-create-order">How to access create order</a>
+  - <a href="#Introduction">What is an order</a>
+  - <a href="#How-to-access-create-order">How to access an create order</a>
   - <a href="#How-to-create-an-order">How to create an order</a>
  
  
  <a id="Introduction"></a> 
- ## Introduction
+ ## What is an order
  
- This function is for merchants to add orders, in the instance where customer orders need to be re-sent but have been marked as sent in the system. Such as, if a customer recieves an incomplete order and has to be sent the remainder of their ordered items.
- The create an order dashboard has multiple features that streamline your process of creating an order, such as:
-  - Each order is given an automatically generated reference ID, specific to each order. This ID is seen on the top right of the screen as seen in the image below. 
+An order is when a customer informs you of their desire to purchase your product. Merchants can create an order for 2 reasons:
+  
+   1. customer orders need to be re-sent but have been marked as sent in the system. Such as, if a customer recieves an incomplete order and has to be sent the remainder of their ordered items.
+   2. merchants to experience the order creation process. 
+  
+  
+ key features to note on create order are:
+  - Each order is given an automatically generated reference ID, specific to each order.
  
  <p align="center"><img width="400" height="100" alt="[Screenshot 2022-03-25 at 4 07 26 PM]" src="https://user-images.githubusercontent.com/101874906/160111380-cbe21c9c-39c6-477d-8452-233b75bbfd2b.png"
 </p>
@@ -220,46 +228,53 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
   
   <p align="center"><img width="700" height="45" alt="[Screenshot 2022-03-25 at 4 08 46 PM]" src="https://user-images.githubusercontent.com/101874906/160111936-311a2bf0-a417-4cec-acb1-74d0340bf0ff.png"></p>
 
-  - One the right of your screen you have the information of your customer who is receieving the item ordered. When a customer has not been chosen the box looks like the image below.
+  - you have the information of your customer who is receieving the item ordered. If you haven't chosen a customer that tile is blank.
  
  <p align="center"><img width="400" height="125" alt="[Screenshot 2022-03-25 at 4 07 58 PM]" src="https://user-images.githubusercontent.com/101874906/160112569-953a984b-1b50-428b-8ded-1af398513487.png"></p>
 
  
-  - Above that you the location selecter which is a table to choose your location.
+  - Location selecter, a table to choose your branch(if any).
  
  <p align="center"><img width="400" height="100" alt="[Screenshot 2022-03-25 at 4 05 27 PM]" src="https://user-images.githubusercontent.com/101874906/160116880-dbdd40b3-dca3-40b7-9cc8-a793f770e87b.png"></p>
 
  
  <a id="How-to-access-create-order"></a> 
- ## How to access create order
+ ## How to access an create order
  
-  - You can access your categories by choosing **Create Order** on your Slate dashboard as shown in the image below. When you first access your categories this will be empty.
+  - You can access create order by choosing **Create Order** on your Slate dashboard as shown below.
  
- <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 3 59 28 PM]" src="https://user-images.githubusercontent.com/101874906/160108846-e82afd32-186f-42c8-a707-ff7f4ccf63c9.png"></p>
+ <p align="center">
+  
+https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa-878a-e0a42f303f70.mov 
+ </p>
 
+ 
+ 
  <a id="How-to-create-an-order"></a> 
  ## How to create an order
  
-  - For you to create an order you will have to choose the location you are placing the order from. Choose from the list as shown in the image below
+ Steps to create an order are:
+ 
+  - Choose the location you are placing the order from. 
  
  <p align="center"> 
  <img width="400" height="150" alt"[Screenshot 2022-03-25 at 4 54 02 PM]" src="https://user-images.githubusercontent.com/101874906/160117599-9539bd2f-37f9-4548-b891-79843f60aec6.png"></p>
  
-  - Then choose the customer recieving the order, customers who have already ordered from your Slate store will be shown in the table, choose customer. For new customers view <a href="#Create-Customer">Create Customer</a> on how to add a new customer to your Slate store.
+  - Choose the customer recieving the order, customers who have already ordered from your Slate store will be shown in the table, choose customer. For new customers view <a href="#Create-Customer">Create Customer</a> on how to add a new customer to your Slate store.
  
-  - When you have chosen a customer and the location your dashboard will like the image below.
+  - When you have chosen a customer and the location your dashboard will look like the image below.
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 16 14 PM]" src="https://user-images.githubusercontent.com/101874906/160119249-e63a52c6-e642-4a8a-8386-32ded5cc3633.png"></p>
 
  - Choose **Create Order**
  
-  - You're taken to the second page of your create order process. This page you choose the product, discounts, taxes and has the cart that shows the total amount due. 
+  - The second page is where you choose the product, discounts and taxes with the cart that shows the total amount.
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 20 40 PM]" src="https://user-images.githubusercontent.com/101874906/160121814-084018e4-23d2-4464-a818-40969fa88ee7.png"></p>
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 20 50 PM]" src="https://user-images.githubusercontent.com/101874906/160122002-839b52df-e25b-4753-a61b-fd988fb90472.png"></p>
 
- - Choose the product, that you have created in inventory <a href="#Inventory">click here</a>. the taxes that you have added to your Slate store, for more infomration on how to add taxes <a href="#Taxes">click here</a>, the discount you have added to your Slate store, for more information on how to add discounts <a href="#Discounts">click here</a>.
+ - Choose the product, that you have created in inventory, for more information on creating an inventory item <a href="#Inventory">click here</a>. the taxes that you have added to your Slate store, for more information on how to add taxes <a href="#Taxes">click here</a> and the discount you have added to your Slate store, for more information on how to add discounts <a href="#Discounts">click here</a>.
  
   - Once added, your page will look like the image below.
  
@@ -267,23 +282,24 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
 
   - Choose **Continue**
  
-  - Taking you to the third page of your **Create Order** process. Where you choose whether pick-up or delivery. 
+  - The third page is the way the customer recieves the order. There 2 options to choose from:
+ 
+  1. Pick up
+  2. Delivery
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 14 PM]" src="https://user-images.githubusercontent.com/101874906/160123801-d53953b6-eea1-4736-af39-7e1eb17f732d.png"></p>
  
-  - If you choose delivery, you will choose the delivery address for your customer, to learn how to manually add the delivery address **click here**. 
- 
-  - Once you choose the delivery address, the details will pop up underneath the table, as shown in the image below.
+  - If you choose delivery, choose the delivery address for your customer, to learn how to manually add the delivery address **click here**. Customer details pop up underneath the table when you choose the customer, as shown in the image below.
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 37 PM" src="https://user-images.githubusercontent.com/101874906/160124461-77547e5c-b18c-4bb8-ac03-59af48e22ed9.png"></p>
  
   - Choose **Continue**
 
-  - Taking you to the final page for creating an order, as shown in the image below.
+  - The final page is for you to review the information and confirm the order.
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 45 PM]" src="https://user-images.githubusercontent.com/101874906/160124897-48f47b98-4626-48f2-b4f4-c989912104ae.png"</p>
   
-   - Once you have reveiwed the information provided, choose **Continue**
+   - Once reveiwed, choose **Continue**
   
    - Your dashboard will have a confirmation as shown in the image below
   
