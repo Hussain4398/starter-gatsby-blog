@@ -215,10 +215,10 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
  ## Key features
  
   
-key features to note on create order are:
+Key features to note on create order are:
   
   
-  - Each order is given an automatically generated reference ID, specific to each order.
+  - each order is given an automatically generated reference ID, specific to each order.
  
  <p align="center"><img width="400" height="100" alt="[Screenshot 2022-03-25 at 4 07 26 PM]" src="https://user-images.githubusercontent.com/101874906/160111380-cbe21c9c-39c6-477d-8452-233b75bbfd2b.png"
 </p>
