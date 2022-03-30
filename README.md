@@ -84,11 +84,11 @@ You can now access your Slate account with the new password you have created.
 
 the Slate dashboard is the administration panel behind your storefront. Essentially, it is for the management and overview of your products/services and insights to your customers as seen in the image below. 
 
-<p align="center"> <img width="650" height="400" alt="[DashImg]" src="https://user-images.githubusercontent.com/101874906/159910280-c97f6136-a313-479d-9ead-50554a9696dd.png"> </p>
+<p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-30 at 10 44 18 AM]" src="https://user-images.githubusercontent.com/101874906/160766128-bb5a5208-70ad-4426-a0c9-165fb12b5200.png"></p>
 
 
 
-## Dashboard Section
+## Dashboard section
 
 The dashboard is divided into sections where you can efficiently complete various tasks. The whole experience is designed by our experts to be intuitive and simple. We believe that you shall find the Slate store experience easy to manage, but these instructions are for those moments where you may require our assistance and to further enhance your experience with the Slate Platform. A short while spent reading this guide will make a significant difference in the efficiency and effectiveness of your Slate experience.
 
@@ -99,11 +99,11 @@ The dashboard is divided into sections where you can efficiently complete variou
 </details>
 
 
-<details><summary>Categories Section</summary>
+<details><summary>Categories section</summary>
 <p>
  
  
-# Category Section
+# Category section
 
 
 This guide will take you through the following
@@ -115,7 +115,7 @@ This guide will take you through the following
 
 
  <a id="What-is-a-category"></a> 
-# What is a category
+## What is a category
 A category is the broadest way to classify all the inventory that you have uploaded to your Slate store. To learn more on how to upload inventory read this [guide](https://www.google.com).
 The simplest way to understand how a category can help you filter your inventory is by using the following examples:
 |Example|Inventory Upload|Categories|What can be in this category|
@@ -146,7 +146,8 @@ https://user-images.githubusercontent.com/101874906/160762017-d1027cce-c015-4a69
  </p>
   
 - When you first access your categories this will be empty. Eventually you would expect this categories section to look like the below depending on your business and what you are selling.
-<p align="center"> <img width="650" height="400" alt="GithubImg(1)" src="https://user-images.githubusercontent.com/101874906/159454964-4eee6471-78f5-4c48-acb2-faaa4b74773e.png"> </p>
+<p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-14 at 1 08 47 PM]" src="https://user-images.githubusercontent.com/101874906/160775844-288fac81-b82d-4183-b09d-52d65be48070.png">
+ </p>
 
 <a id="How-to-add-a-category"></a> 
 ## How to add a category
@@ -200,24 +201,23 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
  </p>
  </details>
  
-<details><summary>Create an Order</summary>
+<details><summary>Create an order</summary>
  <p>
  
-  - <a href="#Introduction">What is an order</a>
-  - <a href="#How-to-access-create-order">How to access an create order</a>
+  # Create an order
+  
+  - <a href="#Introduction">Key features</a>
+  - <a href="#How-to-access-create-order">How to access create an order</a>
   - <a href="#How-to-create-an-order">How to create an order</a>
  
  
  <a id="Introduction"></a> 
- ## What is an order
+ ## Key features
  
-An order is when a customer informs you of their desire to purchase your product. Merchants can create an order for 2 reasons:
   
-   1. customer orders need to be re-sent but have been marked as sent in the system. Such as, if a customer recieves an incomplete order and has to be sent the remainder of their ordered items.
-   2. merchants to experience the order creation process. 
+key features to note on create order are:
   
   
- key features to note on create order are:
   - Each order is given an automatically generated reference ID, specific to each order.
  
  <p align="center"><img width="400" height="100" alt="[Screenshot 2022-03-25 at 4 07 26 PM]" src="https://user-images.githubusercontent.com/101874906/160111380-cbe21c9c-39c6-477d-8452-233b75bbfd2b.png"
@@ -228,18 +228,18 @@ An order is when a customer informs you of their desire to purchase your product
   
   <p align="center"><img width="700" height="45" alt="[Screenshot 2022-03-25 at 4 08 46 PM]" src="https://user-images.githubusercontent.com/101874906/160111936-311a2bf0-a417-4cec-acb1-74d0340bf0ff.png"></p>
 
-  - you have the information of your customer who is receieving the item ordered. If you haven't chosen a customer that tile is blank.
+ - you have the information of your customer who is receieving the item ordered. If you haven't chosen a customer that tile is blank.
  
  <p align="center"><img width="400" height="125" alt="[Screenshot 2022-03-25 at 4 07 58 PM]" src="https://user-images.githubusercontent.com/101874906/160112569-953a984b-1b50-428b-8ded-1af398513487.png"></p>
 
  
-  - Location selecter, a table to choose your branch(if any).
+ - Location selecter, a table to choose your branch(if any). For more information on how to add a location **click here**.
  
  <p align="center"><img width="400" height="100" alt="[Screenshot 2022-03-25 at 4 05 27 PM]" src="https://user-images.githubusercontent.com/101874906/160116880-dbdd40b3-dca3-40b7-9cc8-a793f770e87b.png"></p>
 
  
  <a id="How-to-access-create-order"></a> 
- ## How to access an create order
+ ## How to access create order
  
   - You can access create order by choosing **Create Order** on your Slate dashboard as shown below.
  
@@ -260,7 +260,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  <p align="center"> 
  <img width="400" height="150" alt"[Screenshot 2022-03-25 at 4 54 02 PM]" src="https://user-images.githubusercontent.com/101874906/160117599-9539bd2f-37f9-4548-b891-79843f60aec6.png"></p>
  
-  - Choose the customer recieving the order, customers who have already ordered from your Slate store will be shown in the table, choose customer. For new customers view <a href="#Create-Customer">Create Customer</a> on how to add a new customer to your Slate store.
+  - Choose the customer recieving the order, customers who have already ordered from your Slate store will be shown in the table, choose customer. For new customers view <a href="#Create-Customer">Create customer</a> on how to add a new customer to your Slate store.
  
   - When you have chosen a customer and the location your dashboard will look like the image below.
  
@@ -268,23 +268,21 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
 
  - Choose **Create Order**
  
-  - The second page is where you choose the product, discounts and taxes with the cart that shows the total amount.
+  - Choose the product, that you have created in inventory, for more information on creating an inventory item <a href="#Inventory">click here</a>, the taxes that you have added to your Slate store, for more information on how to add taxes <a href="#Taxes">click here</a> and the discount you have added to your Slate store, for more information on how to add discounts <a href="#Discounts">click here</a>.
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 20 40 PM]" src="https://user-images.githubusercontent.com/101874906/160121814-084018e4-23d2-4464-a818-40969fa88ee7.png"></p>
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 20 50 PM]" src="https://user-images.githubusercontent.com/101874906/160122002-839b52df-e25b-4753-a61b-fd988fb90472.png"></p>
 
- - Choose the product, that you have created in inventory, for more information on creating an inventory item <a href="#Inventory">click here</a>. the taxes that you have added to your Slate store, for more information on how to add taxes <a href="#Taxes">click here</a> and the discount you have added to your Slate store, for more information on how to add discounts <a href="#Discounts">click here</a>.
- 
   - Once added, your page will look like the image below.
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 01 PM]" src="https://user-images.githubusercontent.com/101874906/160123316-f5f38635-db06-416f-b5ee-f3c0fcfcd3ed.png"></p>
 
   - Choose **Continue**
  
-  - The third page is the way the customer recieves the order. There 2 options to choose from:
+  - Then choose the way the customer recieves the order. There 2 options to choose from:
  
-  1. Pick up
+  1. Pickup
   2. Delivery
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 14 PM]" src="https://user-images.githubusercontent.com/101874906/160123801-d53953b6-eea1-4736-af39-7e1eb17f732d.png"></p>
@@ -295,7 +293,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  
   - Choose **Continue**
 
-  - The final page is for you to review the information and confirm the order.
+  - finally, review the information and confirm the order.
  
  <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-25 at 5 43 45 PM]" src="https://user-images.githubusercontent.com/101874906/160124897-48f47b98-4626-48f2-b4f4-c989912104ae.png"</p>
   
@@ -314,7 +312,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  </details>
  
  <a id="Create-Customer"></a>
- <details><summary>Create Customer</summary>
+ <details><summary>Create customer</summary>
  <p>
  
  
@@ -323,7 +321,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  </p>
  </details>
   
-  <a id="Teaxes"></a>
+  <a id="Taxes"></a>
   <details><summary>Taxes</summary>
 <p>
   
@@ -344,6 +342,35 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  <details><summary>Inventory</summary>
  <p>
   
+  ## Inventory section
+  
+   - <a href="#What-is-inventory">What is inventory</a>
+  - <a href="#How-to-access-inventory">How to access inventory</a>
+  - <a href="#How-to-create-an-order">How to add a product</a>
+  - <a href="#How-to-edit-product">How to edit a product</a>
+  
+  <a id="What-is-inventory"></a>
+  # What is inventory
+  
+  Inventory is all the products you have uploaded on your Slate store, keeping track of the number of units you have in stock. Each business will have different items they can list on their Slate store, the simplest way to understand different types of products you can upload is by using the following example: 
+  
+ <p align="center">
+  
+ |Type of store|Inventory item|
+|:-----:|:--------------:|
+|Resteraunt|Chicken corn soup|
+|          |Chicken tikka pizza|
+|          |Ice cream|
+|          |Fresh apple juice|
+|          |Coca-cola|
+|Fashion|Pakistan cricket cap
+|       |Karachi Kings shirt|
+|       |Lahore Qalanders shirt|
+|       |Peshawar Zalmi shirt|
+|       |Liverpool football club socks|
+  
+</p>
+   
  </p>
  </details>
  
