@@ -288,33 +288,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  </p>
  </details>
  
- <a id="Create-Customer"></a>
- <details><summary>Create customer</summary>
- <p>
- 
- 
- 
   
- </p>
- </details>
-  
-  <a id="Taxes"></a>
-  <details><summary>Taxes</summary>
-<p>
-  
- </p>
- </details>
- 
- 
- <a id="Discounts"></a>
- <details><summary>Discounts</summary>
- <p>
-  
-  
- </p>
- </details>
- 
- 
  <a id="Inventory"></a>
  <details><summary>Inventory</summary>
  <p>
@@ -473,6 +447,34 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
   
  </p>
  </details>
+ 
+ <a id="Create-Customer"></a>
+ <details><summary>Create customer</summary>
+ <p>
+ 
+ 
+ 
+  
+ </p>
+ </details>
+  
+  <a id="Taxes"></a>
+  <details><summary>Taxes</summary>
+<p>
+  
+ </p>
+ </details>
+ 
+ 
+ <a id="Discounts"></a>
+ <details><summary>Discounts</summary>
+ <p>
+  
+  
+ </p>
+ </details>
+ 
+
  
  </p>
 </details>
