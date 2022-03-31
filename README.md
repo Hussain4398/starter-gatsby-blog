@@ -424,11 +424,51 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
   - <a href="#access-location">How to access locations</a>
   - <a href="#add-location">How to add a location</a>
   - <a href="#edit-location">How to edit a location</a>
-  - <a href="#delete-location">How to delete a location</a>
   
   <a id="what-is-location"></a>
  ## What is a location
-  A location is the base of operations for your business whether it is physical or mobile. If you are a business owner with more than one base of operation you can add them to your Slate store. 
+  A location is the base of operations for your business whether it is physical or mobile for example if you own a food truck your location is mobile. If you are a business owner with more than one base of operation you can add them to your Slate store, to learn more on how to add locations <a href="#add-location">click here</a>.
+  
+  
+  <a id="access-location"></a>
+  ## How to access locations
+  You can access your inventory by choosing **Locations** from your Slate dashboard as shown below:
+  
+  
+  <a id="add-location"></a>
+  ## How to add a location
+  
+  steps to add a location:
+   - to add a location to your Slate store choose **Add location** opening a sidebar as shown in the image below. 
+  
+   - name your location and add a description for it. In th example shown below we are creating a location for the Slate HQ.
+   - upload images from your computer for the display and cover image. These images do not have to be of the location for example the image we have chosen is the Slate logo, so for home based busiesses they can upload images of their choice. 
+   - add your business #, the name of your business, the email for your business, your country of operation, the currency you transact in and the type of location it is. 
+   - it is optional but preferred to add your business':
+  
+   1. Facebook URL
+   2. Instagram URL
+   3. Twitter URL
+  
+   - add the business hours for your location by guiding the arms on the dial of the clock for each day as shown in the video below.
+   - add the addreess of your location by choosing **Add Address** opening a pop up with a field to add the first line of your address as shown in the image below.
+  
+   - you will now need to edit your address by doing the following:
+  
+   1. add the first line of your address,
+   2. the name of your organization
+   3. the city your location is in
+   4. the province the city is in
+   5. the postcode for the area your location 
+   6. the address kind
+   7. to save the address choose **Save**
+  
+   - to save your location choose **Save**.
+  
+  <a id="edit-location"></a>
+  ## How to edit your location
+  
+  To edit your location choose **Select** in the row of the location you're editing in the **Actions** column opening the side bar with the pre-existing information you want to edit as shown in the image below.  
   
   
  </p>
