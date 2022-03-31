@@ -120,14 +120,14 @@ The dashboard is divided into sections where you can efficiently complete variou
  
  <p align="center"><img alt="[Screenshot 2022-03-31 at 3 32 28 PM]" src="https://user-images.githubusercontent.com/101874906/161038361-98b3ee23-cb31-43dc-9081-944de1a6000c.png"></p>
 
-  Underneath that is the activities column, showing the recent actions performed by your Slate system; orders which have been placed for items on your Slate store, for more information on how to add items to your slate store <a href="#Add-item">click here</a>, fulfilled and canceled and details of payment processing, to get more information on order management <a href="#order-management">click here</a>. 
+  Underneath that is the activities column, showing the recent actions performed on your Slate store; orders that are placed for items on your Slate store, for more information on how to add items to your slate store <a href="#Add-item">click here</a>. Fulfilled orders, orders that have been cancelled and details of payment processing all are displayed here, to get more information on order management <a href="#order-management">click here</a>. 
  
  - Actions: 
  
 <p align="center"><img alt="[Screenshot 2022-03-31 at 3 32 30 PM" src="https://user-images.githubusercontent.com/101874906/161038617-c4fe41c3-f023-499f-b538-acd8e4ed0e7f.png"></p>
 
  Adjacent to the activities column, you have the pending actions bar which has:
- 1. Order Fulfillment: This process entails the logistics of converting an item in inventory to be packed, processed and delivered to the assigned customer.
+ 1. Order Fulfillment: This process covers the logistics of converting an item in inventory to be packed, processed and delivered to the assigned customer.
 
 
  2. Pending Transactions: This is for the payments that are to be made by the customers for their ordered items. 
@@ -447,7 +447,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
   
   <a id="what-is-location"></a>
  ## What is a location
-  A location is the base of operations for your business whether it is physical or mobile for example if you own a food truck your location is mobile. If you are a business owner with more than one base of operation you can add them to your Slate store, to learn more on how to add locations <a href="#add-location">click here</a>.
+  A location is the base of operations for your business whether it is physical or mobile for example if you own a food truck your location is mobile and if you have rented out an office space, that is physical. If you are a business owner with more than one base of operation you can add them to your Slate store, to learn more on how to add locations <a href="#add-location">click here</a>.
   
   
   <a id="access-location"></a>
@@ -523,6 +523,27 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
   <a id="edit-discount"></a>
   ## How to edit a discount
   To edit your discount choose **Select** in the row of the discount you're editing in the **Actions** column opening the side bar with the pre-existing information you want to edit as shown in the image below.  
+  
+ </p>
+ </details>
+  
+  
+  <a id="media"></a>
+  <details><summary>Media</summary>
+ <p>
+  
+  # Media
+  
+  This guide takes you through the following:
+  
+  ## How to access media
+   You can access your discounts by choosing **Discounts** from your Slate dashboard as shown below:
+  
+  
+  ## How to add an image to media
+  To add an image to media choose **+ Add Photo**
+  
+  
   
  </p>
  </details>
