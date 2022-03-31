@@ -494,7 +494,38 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  </p>
  </details>
  
- <
+ <a id="Discounts"></a>
+ <details><summary>Discounts</summary>
+ <p>
+  
+  # Discounts
+  
+  This guide takes you through the following;
+  - <a href="#access-discount">How to access discounts</a>
+  - <a href="#add-discount">How to add a discount</a>
+  - <a href="#edit-discount">How to edit a discount</a>
+  
+  <a id="access-discount"></a>
+  ## How to access discounts
+  You can access your discounts by choosing **Discounts** from your Slate dashboard as shown below:
+  
+  <a id="add-discount"></a>
+  ## How to add a discount
+  
+  Steps to add a discount:
+  
+  - To add a discount choose **Add Discount**. This opens a sidebar as shown in the image below. 
+  
+  - Add a name for the discount you are creating, choose whether the discount modify tax basis or does not modify tax basis and whether the discount is a fixed amount or fixed percentage. 
+  
+  - To save the discount choose **Save**.
+  
+  <a id="edit-discount"></a>
+  ## How to edit a discount
+  To edit your discount choose **Select** in the row of the discount you're editing in the **Actions** column opening the side bar with the pre-existing information you want to edit as shown in the image below.  
+  
+ </p>
+ </details>
   
   <a id="Taxes"></a>
   <details><summary>Taxes</summary>
@@ -504,16 +535,10 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  </details>
  
  
- <a id="Discounts"></a>
- <details><summary>Discounts</summary>
- <p>
-  
-  
- </p>
- </details>
+ 
  
  <a id="Create-Customer"></a>
- <details><summary>Create customer</summary>
+ <details><summary>Customers</summary>
  <p>
  
  
