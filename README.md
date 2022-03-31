@@ -22,7 +22,7 @@
  <a id="Need-an-account"></a> 
  ## Need an account?
  
- You can create your Slate account by choosing the [**Need an account?**](https://www.google.com) link as shown in the video below.
+ You can create your Slate account by choosing **Need Account** as shown in the video below.
  
 <p align="center">
     
@@ -84,13 +84,14 @@ You can now access your Slate account with the new password you have created.
  
  this guide takes you through the following:
 
+ - <a href="#what-dash">What is the dashboard</a>
+ - <a href="#key-features">Key features</a>
 
 
 
 
-
-
-## What the is the dashboard
+ <a id="what-dash"></a>
+## What is the dashboard
  
 the Slate dashboard is the administration panel behind your storefront. It is for the management and overview of your products/services and insights to your customers as seen in the image below. 
  
@@ -98,7 +99,46 @@ the Slate dashboard is the administration panel behind your storefront. It is fo
  
 The dashboard is divided into sections where you can efficiently complete various tasks. The whole experience is designed by our experts to be intuitive and simple. We believe that you shall find the Slate store experience easy to manage, but these instructions are for those moments where you may require our assistance and to further enhance your experience with the Slate Platform. A short while spent reading this guide will make a significant difference in the efficiency and effectiveness of your Slate experience.
 
+ <a id="key-features"></a>
+ ## Key features
+ 
  - Sales and Orders daily summary:
+ 
+ <p align="center">
+  <img width="375" height="100" alt="[Screenshot 2022-03-31 at 3 32 19 PM]" src="https://user-images.githubusercontent.com/101874906/161036808-d4fcddeb-dcc6-401e-8848-3977aaecdca4.png">
+ </p>
+ 
+ On the top of your screen you are presented with your Daily Total Orders and Daily Revenue tiles of the business
+ 
+ - Location of operation 
+ 
+ <p align="center"><img alt="[Screenshot 2022-03-31 at 3 46 05 PM]" src="https://user-images.githubusercontent.com/101874906/161038117-1fcfed13-9aa9-4da1-84fe-54adfb0ccb18.png"></p>
+
+ Adjacent to that is the location tile, each business varies in size, for example a larger business has more than one location of operations. On your Slate store you can add more than one location, letting you manage each store individually. To get more information on how to add a location <a href="#add-location">click here</a>. 
+ 
+ - Recent Activities:
+ 
+ <p align="center"><img alt="[Screenshot 2022-03-31 at 3 32 28 PM]" src="https://user-images.githubusercontent.com/101874906/161038361-98b3ee23-cb31-43dc-9081-944de1a6000c.png"></p>
+
+  Underneath that is the activities column, showing the recent actions performed by your Slate system; orders which have been placed for items on your Slate store, for more information on how to add items to your slate store <a href="#Add-item">click here</a>, fulfilled and canceled and details of payment processing, to get more information on order management <a href="#order-management">click here</a>. 
+ 
+ - Actions: 
+ 
+<p align="center"><img alt="[Screenshot 2022-03-31 at 3 32 30 PM" src="https://user-images.githubusercontent.com/101874906/161038617-c4fe41c3-f023-499f-b538-acd8e4ed0e7f.png"></p>
+
+ Adjacent to the activities column, you have the pending actions bar which has:
+ 1. Order Fulfillment: This process entails the logistics of converting an item in inventory to be packed, processed and delivered to the assigned customer.
+
+
+ 2. Pending Transactions: This is for the payments that are to be made by the customers for their ordered items. 
+
+ 3. Top Products:
+Underneath that you can see the top performing products of their slate store. This is determined by the number of units sold from the products available on your slate store. To get more information on how to add an item <a href="#Add-an-item">click here</a>.
+
+ 4. Top Customers:
+Lastly, on your Slate dash you have a list of your ‘Top Customers’ this is a list of customers that have most frequently bought products from your slate store. Ranking them on the basis of most active to least, to get more information on how to customers <a href="#customer">click here</a>
+
+
  
  
 </p>
@@ -454,15 +494,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  </p>
  </details>
  
- <a id="Create-Customer"></a>
- <details><summary>Create customer</summary>
- <p>
- 
- 
- 
-  
- </p>
- </details>
+ <
   
   <a id="Taxes"></a>
   <details><summary>Taxes</summary>
@@ -480,6 +512,15 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  </p>
  </details>
  
+ <a id="Create-Customer"></a>
+ <details><summary>Create customer</summary>
+ <p>
+ 
+ 
+ 
+  
+ </p>
+ </details>
 
  
  </p>
