@@ -82,7 +82,7 @@ You can now access your Slate account with the new password you have created.
  
 # About the dashboard
 
-the Slate dashboard is the administration panel behind your storefront. Essentially, it is for the management and overview of your products/services and insights to your customers as seen in the image below. 
+the Slate dashboard is the administration panel behind your storefront. It is for the management and overview of your products/services and insights to your customers as seen in the image below. 
 
 <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-30 at 10 44 18 AM]" src="https://user-images.githubusercontent.com/101874906/160766128-bb5a5208-70ad-4426-a0c9-165fb12b5200.png"></p>
 
@@ -179,7 +179,7 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
  <p align="center"> <img width="650" height="400" alt="[CatImgEdit2]" src="https://user-images.githubusercontent.com/101874906/159475706-d67306ee-92e4-4ed6-8772-05e80fad311f.png">
 </p>
  
- - To edit the image choose [**Choose Image**](https://www.google.com), taking you to a gallary with media that you have uploaded to your Slate store as shown in the image below
+ - To edit the image choose [**Choose Image**](https://www.google.com), taking you to a gallary with media that you have uploaded to your Slate store as shown in the image below. To learn more on how to add media to your Slate store **click here**
  
 <p align="center"> <img width="650" height="400" alt="[CatImgEdit3]" src="https://user-images.githubusercontent.com/101874906/159467245-fbd1e599-c21b-467a-988f-401d384d5400.png"> </p>
 
@@ -229,8 +229,8 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  <a id="branch"></a> 
   - Choose the location you are generating the order from. For example if your store has 2 locations (such as Islamabad and Karachi) you will choose the location from which you will be fulfilling the order placed by your customer. If your customer is based in Karachi you would normally chose your store location as Karachi but there can be exceptions for example if the item you want to sell is available in your Islamabad store. If you only have one store (you are a home based business you will have one location).
  
- <p align="center"> 
- <img width="400" height="150" alt"[Screenshot 2022-03-25 at 4 54 02 PM]" src="https://user-images.githubusercontent.com/101874906/160117599-9539bd2f-37f9-4548-b891-79843f60aec6.png"></p>
+ <p align="center"> <img width="400" height="150" alt="[Screenshot 2022-03-30 at 6 27 32 PM]" src="https://user-images.githubusercontent.com/101874906/160845900-63af556c-6003-458b-a5cc-0928c9d37864.png">
+ </p>
  
   - Choose the customer recieving the order, customers who have already ordered from your Slate store will be shown in the table, choose customer. For new customers view <a href="#Create-Customer">Create customer</a> on how to add a new customer to your Slate store.
  
@@ -323,7 +323,8 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
   - <a href="#How-to-access-inventory">How to access inventory</a>
   - <a href="#How-to-add-an-item">How to add an item</a>
   - <a href="#Add-variation">How to add a variation</a>
-  - <a href="#How-to-edit-an-item">How to edit an item</a>
+  - <a href="#Edit-inventory">How to edit an item</a>
+  - <a href="#Delete-item">How to delete an item</a>
   
   <a id="What-is-inventory"></a>
   ## What is inventory
@@ -374,7 +375,35 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  - Name the variation, add a SKU number, the price of the item and click the track inventory slider if you wish to keep track of your inventory. If yes, then choose the location the item is available at. 
  - Each item has to have a number of units available, for example if you're a clothing business and the number of white crew neck t-shirts in size medium is 45 then you will add 45 in stock. This is done by choosing **Select** under the **Actions** column in the variations table, choose **Update Stock**, choose **Increase** to add to the number of units available for your listed variant and the number that you have in stock. 
   
-  
+ <id="Edit-inventory"></a>
+ ## How to edit an inventory item
+ 
+ To edit an item choose **Select** in the actions column. This opens an actions list as shown in the image below. This is the start of how to edit a category on your Slate store.
+
+
+ - Choose **View/Edit** to open the side bar containing the information of the item to edit as shown in the image below.
+
+ 
+ - To edit the image choose **Choose Image**, taking you to a gallary with media that you have uploaded to your Slate store as shown in the image below. To learn more on how to add media to your Slate store **click here**
+ 
+
+
+ 
+ - First unselect the existing image that is currently on display, then choose the image you want to be displayed. 
+ 
+ To duplicate an item choose **Select** for the item you want to duplicate. This opens an actions list as previously shown. Choose **Duplicate** 
+
+
+<a id="Delete-item"></a> 
+## How to delete an item
+
+ - To delete a item choose **Select** in the row of the item you are deleting from your Slate store. This opens an action list as previously shown. Choose **Delete**. 
+ - To ensure you are deleting the right item you are asked if you choose to continue as shown in the image below. 
+ 
+ 
+ - To delete the item choose **Yes, Continue**..
+ 
+ 
  </p>
  </details>
  
