@@ -331,7 +331,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
   
   Each product or service (depending on the type of business) you list on your Slate store is part of your inventory. Your inventory keeps track of the number of units you have in stock. Each business has different products or services listed on their Slate stores. The simplest way to understand the different types of products or services different businesses can have is by using the following example: 
   
- <p align="center">
+ <center>
   
  |Type of store|Inventory product/service|
 |:-----:|:--------------:|
@@ -344,7 +344,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
 |Car wash|Standard wash|
 |        |Wash + Buff|
   
-  </p>
+  </center>
   
   if you're a resteraunt owner (or a home-based business) you will list the items on your menu on your Slate store such as a pizzeria will list different types of pizzas they have available on their menu. For a car wash owner (or a door to door car washing service) you will list the different type of services you offer. 
 
@@ -375,7 +375,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  - Name the variation, add a SKU number, the price of the item and click the track inventory slider if you wish to keep track of your inventory. If yes, then choose the location the item is available at. 
  - Each item has to have a number of units available, for example if you're a clothing business and the number of white crew neck t-shirts in size medium is 45 then you will add 45 in stock. This is done by choosing **Select** under the **Actions** column in the variations table, choose **Update Stock**, choose **Increase** to add to the number of units available for your listed variant and the number that you have in stock. 
   
- <id="Edit-inventory"></a>
+ <a id="Edit-inventory"></a>
  ## How to edit an inventory item
  
  To edit an item choose **Select** in the actions column. This opens an actions list as shown in the image below. This is the start of how to edit a category on your Slate store.
