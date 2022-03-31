@@ -106,7 +106,7 @@ The dashboard is divided into sections where you can efficiently complete variou
 # Category section
 
 
-This guide will take you through the following
+This guide will take you through the following:
 1. <a href="#What-is-a-category">What is a category</a>
 2. <a href="#How-to-access-your-categories">How to access your categories</a>
 3. <a href="#How-to-add-a-category">How to add a category</a>
@@ -206,6 +206,8 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
  
   # Create an order
   
+  
+  This guide will take you through the following:
   - <a href="#How-to-access-create-order">How to access create an order</a>
   - <a href="#How-to-create-an-order">How to create an order</a>
   
@@ -319,6 +321,8 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
   
   ## Inventory section
   
+  
+  This guide will take you through the following:
    - <a href="#What-is-inventory">What is inventory</a>
   - <a href="#How-to-access-inventory">How to access inventory</a>
   - <a href="#How-to-add-an-item">How to add an item</a>
@@ -404,6 +408,29 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  - To delete the item choose **Yes, Continue**..
  
  
+ </p>
+ </details>
+ 
+ 
+ <a id="location"></a>
+  <details><summary>Locations</summary>
+ <p>
+ 
+  # Locations
+  
+  This guide will take you through the following:
+  
+  - <a href="#what-is-location">What is a location</a>
+  - <a href="#access-location">How to access locations</a>
+  - <a href="#add-location">How to add a location</a>
+  - <a href="#edit-location">How to edit a location</a>
+  - <a href="#delete-location">How to delete a location</a>
+  
+  <a id="what-is-location"></a>
+ ## What is a location
+  A location is the base of operations for your business whether it is physical or mobile. If you are a business owner with more than one base of operation you can add them to your Slate store. 
+  
+  
  </p>
  </details>
  
