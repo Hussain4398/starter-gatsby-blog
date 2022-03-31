@@ -76,20 +76,26 @@ You can now access your Slate account with the new password you have created.
 </p>
 </details>
 
-  <details><summary>About the dashboard</summary>
+  <details><summary>Dashboard</summary>
 <p>
  
  
-# About the dashboard
+# Dashboard
+ 
+ this guide takes you through the following:
 
+
+
+
+
+
+
+## What the is the dashboard
+ 
 the Slate dashboard is the administration panel behind your storefront. It is for the management and overview of your products/services and insights to your customers as seen in the image below. 
-
-<p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-30 at 10 44 18 AM]" src="https://user-images.githubusercontent.com/101874906/160766128-bb5a5208-70ad-4426-a0c9-165fb12b5200.png"></p>
-
-
-
-## Dashboard section
-
+ 
+ <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-30 at 10 44 18 AM]" src="https://user-images.githubusercontent.com/101874906/160766128-bb5a5208-70ad-4426-a0c9-165fb12b5200.png"></p>
+ 
 The dashboard is divided into sections where you can efficiently complete various tasks. The whole experience is designed by our experts to be intuitive and simple. We believe that you shall find the Slate store experience easy to manage, but these instructions are for those moments where you may require our assistance and to further enhance your experience with the Slate Platform. A short while spent reading this guide will make a significant difference in the efficiency and effectiveness of your Slate experience.
 
  - Sales and Orders daily summary:
@@ -99,14 +105,14 @@ The dashboard is divided into sections where you can efficiently complete variou
 </details>
 
 
-<details><summary>Categories section</summary>
+<details><summary>Categories</summary>
 <p>
  
  
-# Category section
+# Categories
 
 
-This guide will take you through the following:
+This guide takes you through the following:
 1. <a href="#What-is-a-category">What is a category</a>
 2. <a href="#How-to-access-your-categories">How to access your categories</a>
 3. <a href="#How-to-add-a-category">How to add a category</a>
@@ -207,7 +213,7 @@ To edit a category choose [**Select**](https://www.google.com). This opens an ac
   # Create an order
   
   
-  This guide will take you through the following:
+  This guide takes you through the following:
   - <a href="#How-to-access-create-order">How to access create an order</a>
   - <a href="#How-to-create-an-order">How to create an order</a>
   
@@ -296,7 +302,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
   ## Inventory section
   
   
-  This guide will take you through the following:
+  This guide takes you through the following:
    - <a href="#What-is-inventory">What is inventory</a>
   - <a href="#How-to-access-inventory">How to access inventory</a>
   - <a href="#How-to-add-an-item">How to add an item</a>
@@ -309,7 +315,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
   
   Each product or service (depending on the type of business) you list on your Slate store is part of your inventory. Your inventory keeps track of the number of units you have in stock. Each business has different products or services listed on their Slate stores. The simplest way to understand the different types of products or services different businesses can have is by using the following example: 
   
- <center>
+ <div align="center">
   
  |Type of store|Inventory product/service|
 |:-----:|:--------------:|
@@ -322,7 +328,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
 |Car wash|Standard wash|
 |        |Wash + Buff|
   
-  </center>
+  </div>
   
   if you're a resteraunt owner (or a home-based business) you will list the items on your menu on your Slate store such as a pizzeria will list different types of pizzas they have available on their menu. For a car wash owner (or a door to door car washing service) you will list the different type of services you offer. 
 
@@ -392,7 +398,7 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  
   # Locations
   
-  This guide will take you through the following:
+  This guide takes you through the following:
   
   - <a href="#what-is-location">What is a location</a>
   - <a href="#access-location">How to access locations</a>
