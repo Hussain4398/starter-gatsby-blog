@@ -185,12 +185,14 @@ You will be in the best position to determine what are appropriate categories fo
 <a id="How-to-access-your-categories"></a> 
 ## How to access your categories
 - You can access your categories by choosing [**Categories**](https://www.google.com) from your Slate dashboard as shown in the image below. When you first access your categories this will be empty.
-<p align="center"> 
- 
-https://user-images.githubusercontent.com/101874906/160762017-d1027cce-c015-4a69-b77a-fdde912dd1d1.mov
 
- </p>
   
+ 
+
+https://user-images.githubusercontent.com/101874906/161512667-c95d6a34-6ac6-48e3-ae49-f4e23a898ea5.mp4
+
+
+ 
 - When you first access your categories this will be empty. Eventually you would expect this categories section to look like the below depending on your business and what you are selling.
 <p align="center"><img width="650" height="400" alt="[Screenshot 2022-03-14 at 1 08 47 PM]" src="https://user-images.githubusercontent.com/101874906/160775844-288fac81-b82d-4183-b09d-52d65be48070.png">
  </p>
@@ -205,7 +207,7 @@ https://user-images.githubusercontent.com/101874906/160762017-d1027cce-c015-4a69
 - Name your category to continue. For our example we are going be creating a category for **Mains** for a restaurant. 
 - You will now need to edit your category which includes the following: 
 
-  - Choosing an image to display for your category. This will be an image that you have uploaded to your [**Media**](https://www.google.com) section. To learn more about how to add media to your Slate store you can read this [guide](https://www.google.com)
+  - Choosing an image to display for your category. This will be an image that you have uploaded to your [**Media**](https://www.google.com) section. To learn more about how to add media to your Slate store you can read this <a href="#media">guide.</a>
  <p align="center">
  <img align="centre" width="225" height="250" alt="GithubImg(4)" src="https://user-images.githubusercontent.com/101874906/159458323-a89d09ce-2095-468d-b805-6e15af568ca7.png"> </p>
 
@@ -536,6 +538,9 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
   
   This guide takes you through the following:
   
+  your media is a folder for all of the images 
+  
+  
   ## How to access media
    You can access your discounts by choosing **Discounts** from your Slate dashboard as shown below:
   
@@ -562,8 +567,32 @@ https://user-images.githubusercontent.com/101874906/160761285-9fc32cbc-00e8-42fa
  <details><summary>Customers</summary>
  <p>
  
+ this guide will take you through the following:
+  
+  <a href="#what-is-customers">What is customers</a>
  
- 
+  
+  ## What is customers
+  
+ Customers is a dashboard on your Slate store that gives you a list of customers that have already ordered from your Slate store. You can also place your customers in groups to access this feature select **groups**. For example in your list of existing customers, you can identify which customers are recurring and those that aren't. So, you can put the recurring customers in the recurring customer group. 
+  
+  ## How to add a customer
+  
+  for when you have to deliver an item to a customer who hasn't ordered from your slate store yet, you can add their information manually. to start the process of adding a customer choose **Add Customer**, opening a side bar for you to fill out the necessary information. Which is:
+   - First name
+   - Last name 
+   - email address
+   - phone number
+  
+  moving onto the address of the customer. to add the address of your customer choose **Add Address**, opening an address tile as shown in the image below. 
+  fill out the necessary information and press **Save** 
+  
+  to save the customer information you have added choose **Save Customer**
+  
+  ## How to edit a customer
+  
+  to edit a customer choose **Select** under the actions column in the row of the customer whose information you are editing. Choose **View/Edit**. 
+  
   
  </p>
  </details>
